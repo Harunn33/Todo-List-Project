@@ -16,7 +16,7 @@ const eventListeners = () => {
 };
 const clearAllTodos = () => {
   // Arayüzden todoları temizleme
-  if (confirm("Tümünü silmek istediğinize emin misiniz ?")) {
+  if (confirm("Tümünü silmek istediğinize emin misiniz efendim ?")) {
     //listGroup.innerHTML = ""; // Yavaş yöntem
 
     while (listGroup.firstElementChild != null) {
